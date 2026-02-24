@@ -13,7 +13,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I'm currently working on **Personal Branding**
 - 🌱 I'm currently learning **Data Science & Machine Learning**
 - 💡 I love turning **data into stories** and **insights into solutions**
 - 📫 Reach me at **gagandeep.12322960@lpu.in**
